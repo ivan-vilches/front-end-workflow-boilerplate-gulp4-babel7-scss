@@ -1,0 +1,30 @@
+{
+  "name": "gulp4-babel7-scss-workflow",
+  "version": "1.0.0",
+  "description": "gulp4 babel7 scss autoprefixer imagemin concat uglify browsersync",
+  "main": "index.js",
+  "repository": "https://github.com/ivan-vilches/gulp4-babel7-scss-workflow",
+  "author": "Iván Vilches Basaul",
+  "license": "MIT",
+   "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "browser-sync": "^2.26.3",
+    "del": "^4.1.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "webpack-stream": "^5.2.1"
+  }
+}

@@ -1,0 +1,19 @@
+body {
+    background-color:#CAF2F0 ;
+    display: flex;
+    flex-direction: column;
+}
+
+.central-image {
+    margin: auto 0;
+    width: 100%;
+    display: block;
+    text-align: center;
+
+}
+
+.central-image img {
+    width: 50%;
+    height: auto;
+
+}
