@@ -6,8 +6,8 @@ You can use npm or [yarn](https://yarnpkg.com)
 
 - yarn init
 - yarn install
-- dev: gulp
-- prod: gulp build
+- dev: npm start
+- prod: npm run prod
 
 > I use on develpment unminify css but if you want minify for prod just uncomment on gulpfile.js
 

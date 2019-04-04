@@ -6,7 +6,7 @@
   "repository": "https://github.com/ivan-vilches/gulp4-babel7-scss-workflow",
   "author": "Iván Vilches Basaul",
   "license": "MIT",
-   "scripts": {
+  "scripts": {
     "start": "gulp",
     "prod": "gulp build"
   },
