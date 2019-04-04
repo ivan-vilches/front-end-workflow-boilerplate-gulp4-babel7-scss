@@ -10,7 +10,7 @@ You can use npm or [yarn](https://yarnpkg.com)
 - dev: npm run dev
 - prod: npm run prod
 
-> I use on develpment unminify css but if you want minify for prod just uncomment on gulpfile.js
+> I use on development unminify css but if you want minify for prod just uncomment on gulpfile.js
 
 line 44: 
 ` // .pipe(cssnano()) `
