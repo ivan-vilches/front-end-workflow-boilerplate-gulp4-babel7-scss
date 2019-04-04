@@ -7,7 +7,7 @@
   "author": "Iván Vilches Basaul",
   "license": "MIT",
   "scripts": {
-    "start": "gulp",
+    "dev": "gulp",
     "prod": "gulp build"
   },
   "devDependencies": {
